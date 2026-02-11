@@ -1,14 +1,7 @@
-Here’s a **straight-to-the-point professional README** for your **gateless-recruiting** repository. Based on the GitHub metadata, this is a small technical interview project written in TypeScript.([GitHub][1])
-
----
-
-# gateless-recruiting
-
-Small technical interview project — developer recruiting tool.
 
 ## Overview
 
-**gateless-recruiting** is a TypeScript-based project intended as a coding exercise for technical interviews. It contains source code under `lib/`, automated tests under `tests/`, and uses Playwright for end-to-end test scenarios.([GitHub][1])
+**gateless-recruiting** is a TypeScript-based project intended as a coding exercise for a technical interview. It contains source code under `lib/` and `page-objects`, automated tests under `tests/`, and uses Playwright for end-to-end test scenarios.([GitHub][1])
 
 ## Prerequisites
 
