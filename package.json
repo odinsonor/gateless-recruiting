@@ -1,0 +1,22 @@
+{
+  "name": "gateless-recruiting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odinsonor/gateless-recruiting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odinsonor/gateless-recruiting/issues"
+  },
+  "homepage": "https://github.com/odinsonor/gateless-recruiting#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.2.3"
+  }
+}
